@@ -1,0 +1,24 @@
+Algo 
+min priority queue tuples (p,e) where p is priority and e is the element
+
+Implmentation
+Push
+pop
+topElement
+top priority
+clear
+isEmpty
+
+	additional methods
+	changePriority(Int element, int newPriority)
+		CHANGES THE PRIORITY OF EXISTING ELEM
+	getPriority(int element)
+		RETURNS THE PRIORITY OF EXISTING E IN QUEUE
+	isPresent(int element) returns true if the element exists in the q false otherwise
+
+Grading
+Functunality of priorirty class throws error when needed
+
+Course style gudie
+
+Runtime of each method is as efficenetly as possible. 
